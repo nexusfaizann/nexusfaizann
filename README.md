@@ -1,7 +1,7 @@
 
 # ✨ About Me
 
-👋 I am a B.Tech Computer Science Engineering student from Jammu & Kashmir with a strong interest in modern web and mobile application development.
+👋 I am nexus faizan ,a B.Tech Computer Science Engineering student from Jammu & Kashmir with a strong interest in modern web and mobile application development.
   I specialize in building responsive, user-friendly applications using React and React Native
 
 **React, Node.js, React Native,  Generative AI, DevOps & MLOps**
