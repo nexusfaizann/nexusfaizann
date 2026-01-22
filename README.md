@@ -67,11 +67,18 @@
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nexusfaizan&show_icons=true&theme=dark)
-![JavaScript](https://img.shields.io/badge/JavaScript-58.45%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![CSS](https://img.shields.io/badge/CSS-7.40%25-1572B6?style=for-the-badge&logo=css3)
-![TypeScript](https://img.shields.io/badge/TypeScript-4.03%25-3178C6?style=for-the-badge&logo=typescript)
-![Python](https://img.shields.io/badge/Python-4.12%25-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-1.85%25-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nexusfaizan&show_icons=true&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nexusfaizan&layout=compact&theme=dark)
+
+### 🧠 Language Usage Breakdown
+- 🟨 **JavaScript** — 50.47%
+- 🟦 **CSS** — 7.45%
+- 🐍 **Python** — 5.03%
+- 🔵 **TypeScript** — 3.03%
+- 🟥 **HTML** — 1.70%
+
 
 
 
