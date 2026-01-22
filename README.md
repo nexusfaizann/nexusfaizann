@@ -64,22 +64,9 @@
 
 
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nexusfaizan&show_icons=true&theme=dark)
-## 📊 GitHub Stats
+## 📊 GitHub stats:
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nexusfaizan&show_icons=true&theme=dark)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nexusfaizan&layout=compact&theme=dark)
 
-### 🧠 Language Usage Breakdown
-- 🟨 **JavaScript** — 50.47%
-- 🟦 **CSS** — 7.45%
-- 🐍 **Python** — 5.03%
-- 🔵 **TypeScript** — 3.03%
-- 🟥 **HTML** — 1.70%
 
-
-
-
----
